@@ -1,4 +1,3 @@
-# Sales-Data-Analysis-Predictive-Modeling
 # 🛒 Sales Data Analysis & Predictive Modeling
 
 [![Python](https://img.shields.io/badge/Python-3.9-blue)](https://www.python.org/)
